@@ -1,15 +1,11 @@
-# Ursula UI Learning Path
+# Construct Stats Card
 
-This repository will help us track the assignments with questions work and answers.
+In this assignment you will be required to create a stats card attached below using tailwind CSS.
 
-> NOTE: We will be using Tailwind CSS CDN
+![Stats Card Design](images/stats_card_design.png)
 
-We will will be using the following format to name the assignemnts
+> NOTE: Do all your work in the `index.html` file herein.
 
-`v[number]/quiz` - This will be the question to be addressed by student
+Before you begin, open a new branch named `v1/attempt`
 
-`v[number]/attempt` - This will be the results of student's attempt
-
-`v[number]/answer` - This will be the answer provided by the trainer
-
-On the `v[number]/quiz` branch, a photo of the design should be added and instructions provided on the branch's `readme.md` file.
+Once done, `commit` your work with a proper message then `push` it.
